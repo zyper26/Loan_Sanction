@@ -23,10 +23,10 @@ You work for XYZ bank. Predict the loan amount that can be sanctioned to custome
       i. Took care of data leakage on numerical variables by using fit_transform on training data but transform on validation and test data. <br/>
       ii. Used Robust Scaler, Standard Scaler, MinMaxScaler based on the distribution of variables. <br/>
   8. Model Buidling <br/>
-      i. We will run classification to identify whether the loan saction amount will be zero or not. <br/>
+      i. We will run classification to identify whether the loan saction amount will be zero or not. <br>
           a. Logistic Regression <br/>
           b. Random Forest Classifier <br/>
-      ii. Now, regression to get the actual amount to be sanctioned to the customers. <br/>
+      ii. Now, regression to get the actual amount to be sanctioned to the customers. <br>
           a. Linear regression with RFE (feature selection method) <br/>
           b. Ridge regression <br/>
           c. Lasso regression <br/>
@@ -36,4 +36,4 @@ You work for XYZ bank. Predict the loan amount that can be sanctioned to custome
      
  # Target variable distribution
  
- https://github.com/zyper26/Loan_Sanction/blob/main/target_variable.png
+ ![plot](https://github.com/zyper26/Loan_Sanction/blob/main/target_variable.png)
