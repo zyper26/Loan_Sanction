@@ -8,6 +8,10 @@ With rising property rates, most people avail home loans to buy their dream hous
 
 You work for XYZ bank. Predict the loan amount that can be sanctioned to customers who have applied for a home loan using the features provided in the dataset.
 
+# Dataset
+
+You can find the dataset on ![URL](https://www.kaggle.com/zyper26/sanction-loan)
+
 
 # Steps:
 
