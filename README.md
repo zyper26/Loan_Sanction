@@ -10,7 +10,7 @@ You work for XYZ bank. Predict the loan amount that can be sanctioned to custome
 
 # Dataset
 
-You can find the dataset on ![URL](https://www.kaggle.com/zyper26/sanction-loan)
+You can find the dataset on [URL](https://www.kaggle.com/zyper26/sanction-loan)
 
 
 # Steps:
