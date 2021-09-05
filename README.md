@@ -28,12 +28,12 @@ You can find the dataset on [URL](https://www.kaggle.com/zyper26/sanction-loan)
       ii. Used Robust Scaler, Standard Scaler, MinMaxScaler based on the distribution of variables. <br/>
   8. Model Buidling <br/>
       i. We will run classification to identify whether the loan saction amount will be zero or not. <br>
-          a. Logistic Regression <br/>
-          b. Random Forest Classifier <br/>
+          - Logistic Regression <br/>
+          - Random Forest Classifier <br/>
       ii. Now, regression to get the actual amount to be sanctioned to the customers. <br>
-          a. Linear regression with RFE (feature selection method) <br/>
-          b. Ridge regression <br/>
-          c. Lasso regression <br/>
+          - Linear regression with RFE (feature selection method) <br/>
+          - Ridge regression <br/>
+          - Lasso regression <br/>
   9. Creating a submission file <br/>
        i. Utilized both the classification and regression by first predicting with classification method (Whether to we should give loan or not) then used regression on the customers whom we should give to identify the amount to be given.
        
