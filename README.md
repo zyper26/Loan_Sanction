@@ -27,10 +27,10 @@ You can find the dataset on [URL](https://www.kaggle.com/zyper26/sanction-loan)
       i. Took care of data leakage on numerical variables by using fit_transform on training data but transform on validation and test data. <br/>
       ii. Used Robust Scaler, Standard Scaler, MinMaxScaler based on the distribution of variables. <br/>
   8. Model Buidling <br/>
-      i. We will run classification to identify whether the loan saction amount will be zero or not. <br>
+      i. We will run classification to identify whether the loan saction amount will be zero or not. <br/>
           - Logistic Regression <br/>
           - Random Forest Classifier <br/>
-      ii. Now, regression to get the actual amount to be sanctioned to the customers. <br>
+      ii. Now, regression to get the actual amount to be sanctioned to the customers. <br/>
           - Linear regression with RFE (feature selection method) <br/>
           - Ridge regression <br/>
           - Lasso regression <br/>
